@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awo-p
 - 👀 I’m interested in Data Science and Business Analysis
-- 🌱 I’m currently learning Data Science and Business Analysis
+- 🌱 I’m currently learning Python, PowerBi, SQL, Agile.
 - 💞️ I’m looking to collaborate on projects that require me to employ my skills
 - 📫 How to reach me +2348153474884
 
